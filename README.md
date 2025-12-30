@@ -58,7 +58,7 @@ FPGA에서 OV7670 카메라부터 실시간 영상 처리, 피아노 인터페�
 ```
 
 ### 📊 Top BlockDiagram
-![Block Diagram](./images/top_blockdiagram.png)
+![Block Diagram](./images/top_blockbiagram.png)
 
 ### 📊 화면 출력 (총 8개 Filter - snow Filter)
 ![Filter Piano_snow](./images/snowski.png)
